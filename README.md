@@ -16,6 +16,9 @@ We ran into various amounts of challenges throughout all stages of making this p
 # Accomplishments that we're proud of
 We are very proud of finding such a niche market that is out of our expertise and turning it into a profitable product. Though it took us hours, we were able to successfully get the Google Vision API to work, and through rough work, figure out the needed libraries and functionalities from the API to work towards our advantage. For SimplyMakeup, minimalism and simplicity is key; our designs are able to successfully show this theme and give users a pleasing yet sophisticated experience.
 
+# Devpost Link:
+https://devpost.com/software/simplymakeup
+
 # What we learned
 We learnt a great deal in learning how to use external software such as APIs to further our project. Our team overall also dealt with a new coding language being C#. Being able to be adaptable to unfamiliar situations allowed our team to learn a great deal from these experiences. We had to learn to cooperate better, but also work independently in our delegated tasks.
 
